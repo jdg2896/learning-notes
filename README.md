@@ -20,3 +20,5 @@ This repository is a collection of my personal notes and cheat sheets as I learn
   - [Writing Process](/notes/technical-writing/writing-process.md)
   - [Writing Lessons](/notes/technical-writing/writing-lessons.md)
   - [Writing Resources](/notes/technical-writing/writing-resources.md)
+- [AWS Build Accelerator](/notes/aws-build-accelerator.md) - [(Link)](https://startups.aws.com/programs/build)
+- [The Twelve-Factor App](/notes/twelve-factor-app.md) - [(Link)](https://12factor.net/)
