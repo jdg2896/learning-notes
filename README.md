@@ -4,8 +4,9 @@ This repository is a collection of my personal notes and cheat sheets as I learn
 
 ## Notes
 
-- [Learning Svelte and SvelteKit](/notes/learning-svelte-and%20-sveltekit.md)
+- Learning X:
   - [Learning Svelte and SvelteKit](/notes/learning-svelte-and%20-sveltekit.md)
+  - [Learning TON](/notes/learning-ton.md)
 - AI, Agents
   - [AI Hero: AI Coding for Real Engineers - Cohort 3](/notes/ai-coding-for-real-engineers-cohort-3.md) - [(Link)](https://www.aihero.dev/cohorts/ai-coding-for-real-engineers-m0k0w/)
   - [AI Cybersecurity and Governance](/notes/ai-cybersecurity-and-governance.md) - [(Columbia+ Course Link)](https://plus.columbia.edu/content/ai-cybersecurity-governance)
