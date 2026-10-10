@@ -1,6 +1,6 @@
 # learning-notes
 
-This repository is a collection of my personal notes and cheat sheets as I learn new stuff.
+This repository is a collection of my personal notes and cheat sheets as I learn new things, as well as curated links to learning resources such as blogs, courses, videos, and other useful materials.
 
 ## Notes
 
